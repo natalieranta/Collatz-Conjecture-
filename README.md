@@ -1,4 +1,4 @@
-# Collatz-Conjecture-
+# Collatz Conjecture
 Testing the Collatz Conjecture:
 
 The Collatz conjecture is a conjecture in mathematics that concerns sequences defined as follows: 
