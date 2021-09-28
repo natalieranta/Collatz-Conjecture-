@@ -1,5 +1,6 @@
 # Collatz-Conjecture-
-Testing the Collatz Conjecture 
+Testing the Collatz Conjecture:
+
 The Collatz conjecture is a conjecture in mathematics that concerns sequences defined as follows: 
 Start with any positive integer n. Then, each term is obtained from the previous term as follows: 
 if the previous term is even, the next term is one half of the previous term. 
